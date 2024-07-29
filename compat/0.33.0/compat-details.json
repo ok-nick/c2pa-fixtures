@@ -1,0 +1,1 @@
+{"assets":[{"asset":"C.jpg","category":"jpeg"},{"asset":"sample1.svg","category":"svg"},{"asset":"video1.mp4","category":"bmff"},{"asset":"sample1.mp3","category":"mp3"},{"asset":"libpng-test.png","category":"png"},{"asset":"TUSCANY.TIF","category":"tiff"}],"public_key":"certs/ed25519.pub","private_key":"certs/ed25519.pem"}
